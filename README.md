@@ -1,3 +1,4 @@
+![The Hams](https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/Hamily/Hams.png)
 # Hamily 3D Assets (Work in progress)
 CC0 assets full of hams aka [sail-o-bots](https://opensea.io/collection/sail-o-bots-by-undefined). Current goal is to make all ham pieces and hams in 3D for downloading into the metaverse. We use the GLB format as it's quickly becoming the 3D standard for the metaverse. Then 
 
