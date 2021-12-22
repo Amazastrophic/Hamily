@@ -17,6 +17,7 @@ If you want to help out [Amazastrophic](https://sagetowers.com), the two hamless
 ## IPFS Links to GLB downloads
 Until we get more and someone wants to manage it better just tossing links below. Don't think it would take much to set up an API for downloads into the metaverse, maybe one day. But they are CC0 so no fear you get burned for including them instead of downloading them.
 
+- [sail-o-bots #48 TungstenDAO Ham](https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/Hamily/sail-o-bots%20#48.glb)
 - [sail-o-bots #53 VVD Ham](https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/Hamily/sail-o-bots%20#53.glb)
 - [sail-o-bots #559 Skife Ham](https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/Hamily/sail-o-bots%20#559.glb)
 - [sail-o-bots #329 The Whitecastle Ham](https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/Hamily/sail-o-bots%20#329.glb)
